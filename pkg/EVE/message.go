@@ -1,0 +1,3 @@
+package EVE
+
+var WelcomeMessage = ""
